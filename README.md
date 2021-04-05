@@ -22,12 +22,11 @@ Trata-se de uma aplicação para listar filme de acordo com o genero
 <br>
 <h3>🎨 Layout </h3>
 
-![to_do](https://user-images.githubusercontent.com/58517014/111158058-5c883e80-8576-11eb-8d98-c6522c3be3f8.png)
-
+<img width="1420" alt="Captura de Tela 2021-04-05 às 10 59 30" src="https://user-images.githubusercontent.com/58517014/113582059-4bbf6b80-95fe-11eb-91df-9cafdd5287cc.png">
 ________________________________
 <br>
 
-<img width="1420" alt="Captura de Tela 2021-04-05 às 10 59 30" src="https://user-images.githubusercontent.com/58517014/113582059-4bbf6b80-95fe-11eb-91df-9cafdd5287cc.png">
+
  <br />
  
 
