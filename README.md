@@ -12,7 +12,7 @@
 </h4>
 <br>
 
-<h2> Desafio proposto pela a Rocketseat de refatoração de código usando contexto. <h2/>
+<h3> O objetivo desse desafio proposto pela a Rocketseat é dividir uma aplicação em componentes afim de isolar as responsabilidades e facilitar a manutenção do código. <h3/>
 
 <h3> ☕ Sobre aplicação </h3>
 Trata-se de uma aplicação para listar filme de acordo com o genero
